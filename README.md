@@ -9,4 +9,6 @@
 
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/-html5-E34F26style=flat&logo=html5&logoColor=white)
+
 
